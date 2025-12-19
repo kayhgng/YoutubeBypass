@@ -19,7 +19,7 @@
    - لینک نصب: [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
 
 2. **Proxy SwitchyOmega** (افزونه کروم/فایرفاکس)
-   - لینک نصب: [https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokkgogmolocacabgdnahpd](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokkgogmolocacabgdnahpd)
+   - لینک نصب: [https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped?hl=en]https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped?hl=en)
 
 ## مرحله ۱: تنظیم Proxy SwitchyOmega
 
